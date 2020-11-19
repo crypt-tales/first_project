@@ -1,11 +1,11 @@
 # first_project
 This is my first project on Software Carpentryology
-It contains great software for performing my data analsysis.
+It contains great software for performing my data analysis.
 
 ## Usage
 Description
 ### First tool
-description of first toole
+description of first tool
 
 ### second tool
 description of second tool
@@ -17,5 +17,5 @@ very cool new fancy tool
 
 - item1
 - item2
-- item3
+
 
