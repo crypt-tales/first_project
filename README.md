@@ -10,6 +10,9 @@ description of first toole
 ### second tool
 description of second tool
 
+### Third Tool
+very cool new fancy tool
+
 ## Things to do in the future
 
 - item1
